@@ -1,0 +1,114 @@
+# Copyright (C) 2015 RSV Google Maps
+# This file is distributed under the same license as the RSV Google Maps package.
+msgid ""
+msgstr ""
+"Project-Id-Version: RSV Google Maps 1.5\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/rsv-google-maps\n"
+"POT-Creation-Date: 2015-11-14 12:02:01+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: cpt.php:395 cpt.php:396 cpt.php:397 cpt.php:398 cpt.php:493 cpt.php:494
+#: cpt.php:495 cpt.php:622
+msgid "%s"
+msgstr ""
+
+#: cpt.php:399
+msgid "Add New"
+msgstr ""
+
+#: cpt.php:400 cpt.php:500
+msgid "Add New %s"
+msgstr ""
+
+#: cpt.php:401 cpt.php:497
+msgid "Edit %s"
+msgstr ""
+
+#: cpt.php:402
+msgid "New %s"
+msgstr ""
+
+#: cpt.php:403 cpt.php:498
+msgid "View %s"
+msgstr ""
+
+#: cpt.php:404 cpt.php:504
+msgid "Search %s"
+msgstr ""
+
+#: cpt.php:405 cpt.php:509
+msgid "No %s found"
+msgstr ""
+
+#: cpt.php:406
+msgid "No %s found in Trash"
+msgstr ""
+
+#: cpt.php:407 cpt.php:503
+msgid "Parent %s:"
+msgstr ""
+
+#: cpt.php:496
+msgid "All %s"
+msgstr ""
+
+#: cpt.php:499
+msgid "Update %s"
+msgstr ""
+
+#: cpt.php:501
+msgid "New %s Name"
+msgstr ""
+
+#: cpt.php:502
+msgid "Parent %s"
+msgstr ""
+
+#: cpt.php:505
+msgid "Popular %s"
+msgstr ""
+
+#: cpt.php:506
+msgid "Seperate %s with commas"
+msgstr ""
+
+#: cpt.php:507
+msgid "Add or remove %s"
+msgstr ""
+
+#: cpt.php:508
+msgid "Choose from most used %s"
+msgstr ""
+
+#: cpt.php:696
+msgid "No %s"
+msgstr ""
+
+#: cpt.php:822
+msgid "Show all %s"
+msgstr ""
+
+#: rsv-gmaps.php:253
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "RSV Google Maps"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://www.rapidsort.in"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Plugin for displaying Google Maps."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Rapid Sort"
+msgstr ""

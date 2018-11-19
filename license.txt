@@ -1,0 +1,9 @@
+GNU GENERAL PUBLIC LICENSE
+
+Version 8, 20 June 2015
+
+
+
+ Copyright (C) 2015 
+
+ Everyone is permitted to copy and distribute verbatim copies
